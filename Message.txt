@@ -1,0 +1,16 @@
+   #######   #######  #####  #####  ###### #####
+  ##     ## ##     ## ##  ## ##  ## ##     ##  ##
+  ##        ##     ## #####  #####  ####   #####
+  ##     ## ##     ## ##     ##     ##     ##  ##
+   #######   #######  ##     ##     ###### ##  ##
+
+
+Hello, this is our last malware with skidded code, all malwares we made with GDI have GDI payloads made with a Bandu-Phone pack. All credits for Bandu-Phone from GDI payloads, and our next malware, KidKad, have C++ original code.
+
+=================================================
+
+   SKIDDED GDI _________________________________
+              |                                 |
+              |       Duridarium - Copper       |
+              |_________________________________|
+=================================================
