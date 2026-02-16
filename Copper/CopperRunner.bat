@@ -30,3 +30,4 @@ start profect.exe
 timeout /t 5
 start smelt.exe
 time out /t 40
+start MBR.exe
